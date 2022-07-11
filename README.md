@@ -5,10 +5,10 @@ YOLO is one of the most widely used deep learning based object detection algorit
 
 ### Dataset
 
-The dataset is collected from forest fire images on the internet.
+The dataset is collected from forest fire images on the internet. please contact me for dataset crthang14@gmail.com
 
 ### Training
-Detail training steps in file yolov5_custom.ipynb
+Detail training steps in file Custom_Yolo_V5.ipynb
 
 ##### Step1: Mount Google drive
 
